@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="jp">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title> 辞書 </title>
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+	<style>
+		@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;300;400;500;700;900&display=swap');
+		* {
+			font-size: 18px;
+			font-family: 'Noto Sans JP', sans-serif;
+			scroll-behavior: smooth;
+		}
+		.badge {
+			font-weight: 100;
+		}
+		.kannjiTitle {
+			font-family: 'Noto Sans JP', sans-serif;
+		}
+		.kannjiTitle:hover {
+			font-family: 'UD Digi Kyokasho N-R';
+		}
+	</style>
+</head>
+<body>
+	<nav class="navbar navbar-expand-lg bg-light" style="position: sticky; top: 0; z-index: 1000;">
+		<div class="container-fluid">
+			<a class="navbar-brand" href="#">辞書</a>
+			<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="collapse navbar-collapse" id="navbarSupportedContent">
+			<ul class="navbar-nav me-auto mb-2 mb-lg-0">
+				<li class="nav-item">
+				<a class="nav-link active" aria-current="page" href="#">ホームページ</a>
+				</li>
+				<li class="nav-item dropdown">
+				<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+				レベル
+				</a>
+				<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+				<li><a class="dropdown-item" href="#" onclick="setReberu('N1')">N1</a></li>
+				<li><a class="dropdown-item" href="#" onclick="setReberu('N2')">N2</a></li>
+				<li><a class="dropdown-item" href="#" onclick="setReberu('N3')">N3</a></li>
+				<li><a class="dropdown-item" href="#" onclick="setReberu('N4')">N4</a></li>
+				<li><a class="dropdown-item" href="#" onclick="setReberu('N5')">N5</a></li>
+				</ul>
+				</li>
+			</ul>
+			</div>
+		</div>
+	</nav>
+
+	<main class="container" style="margin-top: 50px;">
+		<div class="input-group">
+			<span class="input-group-text" id="basic-addon1">🔎</span>
+			<input class="form-control" type="search" placeholder="用語" aria-label="Search" id="txt_yougo">
+			<button class="btn btn-outline-success" type="button" style="width: 150px;" id="btn_kennsaku">検索する</button>
+		</div>
+		<div class="row" style="margin-top: 50px;" id="kannjiDisplay">
+			
+		</div>
+	</main>
+
+	<footer>
+
+	</footer>
+	<script src="./Main.js"></script>
+</body>
+</html>

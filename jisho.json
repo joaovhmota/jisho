@@ -1,0 +1,283 @@
+[
+	{
+		"kannji": "卍",
+		"yomikata": "まんじ",
+		"imi": "Fortune, luck",
+		"reberu": "§",
+		"kyoutsuu": false
+	},
+	{
+		"kannji": "鬱",
+		"yomikata": "うつ",
+		"imi": "Depresion",
+		"reberu": "§",
+		"kyoutsuu": false
+	},
+	{
+		"kannji": "同性愛者",
+		"yomikata": "同性愛者",
+		"imi": "Homossexual, gay",
+		"reberu": "§",
+		"kyoutsuu": false
+	},
+	{
+		"kannji": "カピバラ",
+		"yomikata": "かぴばら",
+		"imi": "Capybara",
+		"reberu": "§",
+		"kyoutsuu": false
+	},
+	{
+		"kannji": "一",
+		"yomikata": "いち",
+		"imi": "One",
+		"reberu": "N5",
+		"kyoutsuu": true
+	},
+	{
+		"kannji": "ニ",
+		"yomikata": "に",
+		"imi": "Two",
+		"reberu": "N5",
+		"kyoutsuu": true
+	}
+	,
+	{
+		"kannji": "三",
+		"yomikata": "さん",
+		"imi": "Three",
+		"reberu": "N5",
+		"kyoutsuu": true
+	},
+	{
+		"kannji": "四",
+		"yomikata": "よん・し・よ",
+		"imi": "Four",
+		"reberu": "N5",
+		"kyoutsuu": true
+	},
+	{
+		"kannji": "五",
+		"yomikata": "ご",
+		"imi": "Five",
+		"reberu": "N5",
+		"kyoutsuu": true
+	},
+	{
+		"kannji": "六",
+		"yomikata": "ろく",
+		"imi": "Six",
+		"reberu": "N5",
+		"kyoutsuu": true
+	},
+	{
+		"kannji": "七",
+		"yomikata": "しち・なな",
+		"imi": "Seven",
+		"reberu": "N5",
+		"kyoutsuu": true
+	},
+	{
+		"kannji": "八",
+		"yomikata": "はち",
+		"imi": "Eight",
+		"reberu": "N5",
+		"kyoutsuu": true
+	},
+	{
+		"kannji": "九",
+		"yomikata": "きゅう・く",
+		"imi": "Nine",
+		"reberu": "N5",
+		"kyoutsuu": true
+	},
+	{
+		"kannji": "十",
+		"yomikata": "じゅう",
+		"imi": "Ten",
+		"reberu": "N5",
+		"kyoutsuu": true
+	},
+	{
+		"kannji": "百",
+		"yomikata": "ひゃく・びゃく・もも",
+		"imi": "Hundred",
+		"reberu": "N5",
+		"kyoutsuu": true
+	},
+	{
+		"kannji": "千",
+		"yomikata": "せん",
+		"imi": "Thousand",
+		"reberu": "N5",
+		"kyoutsuu": true
+	},
+	{
+		"kannji": "万",
+		"yomikata": "まん",
+		"imi": "Ten thousand",
+		"reberu": "N5",
+		"kyoutsuu": true
+	},
+	{
+		"kannji": "日",
+		"yomikata": "にち・ひ・じつ・び",
+		"imi": "Day",
+		"reberu": "N5",
+		"kyoutsuu": true
+	},
+	{
+		"kannji": "国",
+		"yomikata": "くに・こく",
+		"imi": "Country",
+		"reberu": "N5",
+		"kyoutsuu": true
+	},
+	{
+		"kannji": "人",
+		"yomikata": "ひと・にん・じん",
+		"imi": "Person",
+		"reberu": "N5",
+		"kyoutsuu": true
+	},
+	{
+		"kannji": "年",
+		"yomikata": "とし・ねん",
+		"imi": "Year",
+		"reberu": "N5",
+		"kyoutsuu": true
+	},
+	{
+		"kannji": "大",
+		"yomikata": "だい・たい・おお（きい）",
+		"imi": "Big",
+		"reberu": "N5",
+		"kyoutsuu": true
+	},
+	{
+		"kannji": "本",
+		"yomikata": "ほん・もと",
+		"imi": "Book, origin, counter for long cylindrical things (hashis, pencils)",
+		"reberu": "N5",
+		"kyoutsuu": true
+	},
+	{
+		"kannji": "中",
+		"yomikata": "なか・ちゅう",
+		"imi": "Middle, inside",
+		"reberu": "N5",
+		"kyoutsuu": true
+	},
+	{
+		"kannji": "長",
+		"yomikata": "なが（い）・ちょう",
+		"imi": "Long, leader, superior",
+		"reberu": "N5",
+		"kyoutsuu": true
+	},
+	{
+		"kannji": "出",
+		"yomikata": "で（る）・だ（す）・しゅつ・すい",
+		"imi": "To exit, to leave",
+		"reberu": "N5",
+		"kyoutsuu": true
+	},
+	{
+		"kannji": "時",
+		"yomikata": "とき・どき・じ",
+		"imi": "Time, hour",
+		"reberu": "N5",
+		"kyoutsuu": true
+	},
+	{
+		"kannji": "行",
+		"yomikata": "い（く）・ゆ（く）",
+		"imi": "To go",
+		"reberu": "N5",
+		"kyoutsuu": true
+	},
+	{
+		"kannji": "見",
+		"yomikata": "み（る）・せん",
+		"imi": "To see, vision",
+		"reberu": "N5",
+		"kyoutsuu": true
+	},
+	{
+		"kannji": "月",
+		"yomikata": "つき・げつ・がつ",
+		"imi": "Moon, month",
+		"reberu": "N5",
+		"kyoutsuu": true
+	},
+	{
+		"kannji": "分",
+		"yomikata": "わ（ける）・ふん・ぶん",
+		"imi": "Parts, minute, to understand",
+		"reberu": "N5",
+		"kyoutsuu": true
+	},
+	{
+		"kannji": "後",
+		"yomikata": "のち・うし（ろ）・あと",
+		"imi": "Behind, back, later",
+		"reberu": "N5",
+		"kyoutsuu": true
+	},
+	{
+		"kannji": "前",
+		"yomikata": "まえ・ぜん",
+		"imi": "In front, before",
+		"reberu": "N5",
+		"kyoutsuu": true
+	},
+	{
+		"kannji": "生",
+		"yomikata": "い（きる）・う（む）・お（う）・は（える）・なま・せい・しょう",
+		"imi": "Life, genuine, birth",
+		"reberu": "N5",
+		"kyoutsuu": true
+	},
+	{
+		"kannji": "間",
+		"yomikata": "あいだ・ま・あい・かん・けん",
+		"imi": "Interval, space",
+		"reberu": "N5",
+		"kyoutsuu": true
+	},
+	{
+		"kannji": "上",
+		"yomikata": "うえ・うわ・かみ・あ（げる）・のぼ（る）・たてまつ（る）・じょう・しょう・しゃん",
+		"imi": "Above, up",
+		"reberu": "N5",
+		"kyoutsuu": true
+	},
+	{
+		"kannji": "下",
+		"yomikata": "した・しも・もと・さ（げる）・くだ（る）・お（ろす）・か・げ",
+		"imi": "Below, down, inferior",
+		"reberu": "N5",
+		"kyoutsuu": true
+	},
+	{
+		"kannji": "今",
+		"yomikata": "いま・こん・きん",
+		"imi": "Now",
+		"reberu": "N5",
+		"kyoutsuu": true
+	},
+	{
+		"kannji": "入",
+		"yomikata": "い（る）・はい（る）",
+		"imi": "To enter, to insert",
+		"reberu": "N5",
+		"kyoutsuu": true
+	},
+	{
+		"kannji": "学",
+		"yomikata": "まな（ぶ）・がく",
+		"imi": "To study, learning, science",
+		"reberu": "N5",
+		"kyoutsuu": true
+	}
+]
