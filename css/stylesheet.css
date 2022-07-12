@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;300;400;500;700;900&display=swap');
+* {
+	font-size: 18px;
+	font-family: 'Noto Sans JP', sans-serif;
+	scroll-behavior: smooth;
+}
+.badge {
+	font-weight: 100;
+}
+.kannjiTitle {
+	font-family: 'Noto Sans JP', sans-serif;
+}
+.kannjiTitle:hover {
+	font-family: 'UD Digi Kyokasho N-R';
+}

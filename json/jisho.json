@@ -1,8 +1,8 @@
 [
 	{
-		"kannji": "カピバラ",
-		"yomikata": "かぴばら",
-		"imi": "Capybara",
+		"kannji": "ඞ",
+		"yomikata": "amogus",
+		"imi": "amogus",
 		"reberu": "",
 		"kyoutsuu": true
 	},
@@ -256,6 +256,41 @@
 		"kannji": "学",
 		"yomikata": "まな（ぶ）・がく",
 		"imi": "To study, learning, science",
+		"reberu": "N5",
+		"kyoutsuu": true
+	},
+	{
+		"kannji": "高",
+		"yomikata": "たか（い）・こう",
+		"imi": "Tall, high, expensive",
+		"reberu": "N5",
+		"kyoutsuu": true
+	},
+	{
+		"kannji": "円",
+		"yomikata": "まる（い）・えん",
+		"imi": "Circle, round, yen",
+		"reberu": "N5",
+		"kyoutsuu": true
+	},
+	{
+		"kannji": "子",
+		"yomikata": "こ・ね・し・す・つ",
+		"imi": "Child",
+		"reberu": "N5",
+		"kyoutsuu": true
+	},
+	{
+		"kannji": "外",
+		"yomikata": "そと・ほか・はず（す）・がい・げ",
+		"imi": "Outside",
+		"reberu": "N5",
+		"kyoutsuu": true
+	},
+	{
+		"kannji": "来",
+		"yomikata": "く（る）・きた（る）・き・こ・らい・たい",
+		"imi": "Come, due, next, cause, become",
 		"reberu": "N5",
 		"kyoutsuu": true
 	}
