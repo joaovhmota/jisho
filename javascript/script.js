@@ -1,6 +1,6 @@
-let jisho = [];
-let yougo = '';
-let iro = '';
+var jisho = [];
+var yougo = 'N5';
+var iro = '';
 
 const kannjiDisplay = document.getElementById('kannjiDisplay');
 const btn_kennsaku = document.getElementById('btn_kennsaku');
@@ -50,7 +50,7 @@ async function loadKanjiTable() {
 }
 
 window.onload = async function() {
-	await fetch('./jisho.json').then(str => str.json()).then( jsonData => {jisho = jsonData;});
+	await fetch('../json/jisho.json').then(str => str.json()).then( jsonData => {jisho = jsonData;});
 	loadKanjiTable();
 	console.log('完了です！');
 };
